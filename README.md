@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,aws" height="60" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,html,css,js,ts,mysql,mongodb,docker,aws" height="60" alt="tech stack icons" />
 </div>
 
 ###
@@ -19,8 +19,18 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=denilsonDhentech&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonDhentech&layout=compact&theme=dracula&hide_border=false" height="150" alt="top languages" />
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://streak-stats.demolab.com?user=denilsonDhentech&theme=dracula&hide_border=false" width="100%" alt="streak graph" />
+      </td>
+      <td align="center" width="300">
+        <strong>Systems Developer</strong><br/>
+        4+ years of experience<br/>
+        Banking & Corporate Environments
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
