@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=denilsonDhentech&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=denilsonDhentech&theme=dracula&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonDhentech&layout=compact&theme=dracula&hide_border=false" height="150" alt="top languages" />
 </div>
 
 ###
